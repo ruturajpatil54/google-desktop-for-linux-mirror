@@ -1,0 +1,1 @@
+This project contains mirrored versions of the source code for open source packages that were used to develop Google Desktop for Linux.
